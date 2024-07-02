@@ -26,15 +26,16 @@
     "experiences": [
         {
             "id": 1,
-            "company": "Photography Course",
+            "company": "Rise Above Development",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/RAD.webp",
+            "title": "Photography Course",
             "description": "Certificate received for completing a 3-day photography course through RAD (Rise Above Development)."
         },
         {
             "id":2,
             "company": "Sigma Connected",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/sigma-connected.webp",
-            "postion": "Customer Advisor",
+            "title": "Customer Advisor",
             "description": "Sigma Connected: March 2023 - April 2024 Position: Customer Advisor"
         }
     ],
