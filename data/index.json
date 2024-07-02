@@ -18,7 +18,7 @@
         },
         {
             "id": 2,
-            "company": "Life Choices Academy",
+            "school": "Life Choices Academy",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/LCA.png",
             "description": "Student at Life Choices Academy: 02 April 2024 - Present"
         }
@@ -26,7 +26,7 @@
     "experiences": [
         {
             "id": 1,
-            "course": "Photography Course",
+            "company": "Photography Course",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/RAD.webp",
             "description": "Certificate received for completing a 3-day photography course through RAD (Rise Above Development)."
         },
