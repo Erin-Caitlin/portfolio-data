@@ -67,19 +67,19 @@
         {
             "id":5,
             "language":"Vue.JS",
-            "name": "bootstrap",
+            "name": "vuejs",
             "level": "Beginner"
         },
         {
             "id":6,
             "language":"Github",
-            "name": "bootstrap",
+            "name": "github",
             "level": "Beginner"
         },
         {
             "id":7,
             "language":"Figma",
-            "name": "bootstrap",
+            "name": "figma",
             "level": "Beginner"
         }
     ],
