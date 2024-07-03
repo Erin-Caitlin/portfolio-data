@@ -43,21 +43,25 @@
         {
             "id":1,
             "language":"HTML",
+            "name": "html5",
             "level": "Beginner"
         },
         {
             "id":2,
             "language":"CSS",
+            "name": "css3",
             "level": "Beginner"
         },
         {
             "id":3,
             "language":"Bootstrap",
+            "name": "bootstrap",
             "level": "Beginner"
         },
         {
             "id": 4,
             "language":"JavaScript",
+            "name": "javascript",
             "level": "Beginner"
         }
     ],
