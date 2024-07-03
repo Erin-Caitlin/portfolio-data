@@ -63,6 +63,24 @@
             "language":"JavaScript",
             "name": "javascript",
             "level": "Beginner"
+        },
+        {
+            "id":5,
+            "language":"Vue.JS",
+            "name": "bootstrap",
+            "level": "Beginner"
+        },
+        {
+            "id":6,
+            "language":"Github",
+            "name": "bootstrap",
+            "level": "Beginner"
+        },
+        {
+            "id":7,
+            "language":"Figma",
+            "name": "bootstrap",
+            "level": "Beginner"
         }
     ],
     "testimonisals": [
