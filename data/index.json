@@ -121,27 +121,32 @@
         {
             "project": "Keyboard",
             "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
-            "Vercel": "https://keyboard-psi-three.vercel.app/"
+            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
         },
         {
             "project": "Calculator",
             "Github": "https://github.com/Erin-Caitlin/Calculator.git",
-            "Vercel": "https://calculator-steel-sigma.vercel.app/"
+            "Vercel": "https://calculator-steel-sigma.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
         },
         {
             "project": "Keyboard",
-            "Github": "link",
-            "Vercel": "link"
+            "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
+            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
         },
         {
             "project": "Keyboard",
-            "Github": "link",
-            "Vercel": "link"
+            "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
+            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
         },
         {
             "project": "Keyboard",
-            "Github": "link",
-            "Vercel": "link"
+            "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
+            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
         }
     ]
 }
