@@ -122,31 +122,44 @@
             "project": "Keyboard",
             "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
             "Vercel": "https://keyboard-psi-three.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Keyboard.png"
         },
         {
             "project": "Calculator",
             "Github": "https://github.com/Erin-Caitlin/Calculator.git",
             "Vercel": "https://calculator-steel-sigma.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/JS-Calculator.png"
         },
         {
-            "project": "Keyboard",
+            "project": "Bootstrap Portfolio",
             "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
             "Vercel": "https://keyboard-psi-three.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Bootstrap-Portfolio.png"
+            
         },
         {
-            "project": "Keyboard",
+            "project": "Luminous Resin",
             "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
             "Vercel": "https://keyboard-psi-three.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Luminous-Resin.png"
         },
         {
-            "project": "Keyboard",
+            "project": "Temperature convertor",
             "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
             "Vercel": "https://keyboard-psi-three.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg"
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Temperature-Converter.png"
+        },
+        {
+            "project": "Swegga Fashion",
+            "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
+            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Swegga-Fashion.png"
+        },
+        {
+            "project": "BMI Calculator",
+            "Github": "https://github.com/Erin-Caitlin/Keyboard.git",
+            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI Calculator.png"
         }
     ]
 }
