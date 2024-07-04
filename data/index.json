@@ -28,15 +28,13 @@
             "id": 1,
             "company": "Rise Above Development",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/RAD.webp",
-            "title": "Photography Course",
             "description": "Certificate received for completing a 3-day photography course."
         },
         {
             "id":2,
             "company": "Sigma Connected",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/sigma-connected.webp",
-            "title": "Customer Advisor",
-            "description": "Sigma Connected: March 2023 - April 2024 Position: Customer Advisor"
+            "description": "Customer Advisor: March 2023 - April 2024"
         }
     ],
     "skills": [
