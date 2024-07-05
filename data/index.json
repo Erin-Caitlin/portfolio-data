@@ -83,12 +83,14 @@
     ],
     "testimonials": [
         {
+            "id": 1,
             "name": "Prophet Lizelle Adonis",
             "relation": "Senior Pastor",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/Prophet Lizelle.jpg",
             "testimonial": ["l, the undersigned Senior Pastor, would like to recommend Erin Caitlin Williams, who has been a member of the above mentioned church (Deep River Revival Worship Center). She has been fellow-shipping at our place of worship for the last 15 years alongside her family and has shown herself to be devoted in attendance and submission. She has been actively involved in Youth Ministry, Arts & Culture department(Dancing) as well as our School of Esther (Training school for young girls). Her interests varies from learning new skills & teachings, attending church services as well as a love for meeting new people. Dedication & commitment is her life motto, therefore I would recommend her for any task given as it will be accomplished as expected."]
         },
         {
+            "id": 2,
             "name": "Melanie Ederoos",
             "relation": "Friend",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/Melanie Ederoos.jpg",
@@ -97,18 +99,21 @@
             ]
         },
         {
+            "id": 3,
             "name": "Nosipho Precious Femela",
             "relation": "Team Manager",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/Nosipho Precious.jpg",
             "testimonial": ["To whom it may concern,", "I confirm that Erin Williams was employed by Sigma Connected, from 23 March 2023 to 1 April 2024.", "She had held the following position: Customer Advisor. In her most recent position, she had responsibility for contacting our client’s customers for debt collection, debt recovery, she provided customer service, handled customer complaints, dealt with billing and metering queries. She was a multi functional customer service advisor.", "Erin brought forward good qualities on providing customer services and utilising CRM systems. She showed good judgement and acted like a mature member of the team. Her unconventional way of thinking helped the company to solve practical issues in the most efficient ways.", "I would highly recommend Erin as I consider her a model member of the team who provided consistency and delivered all expectations.", "Yours faithfully, Nosipho Precious Femela", "Team Manager"]
         },
         {
+            "id": 4,
             "name": "Zaynurah Jacobs",
             "relation": "Team Manager",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/profile-image.png",
             "testimonial": ["Erin Williams reported to me for just over 6 months and I can consider her as a strong and trustworthy individual.She is hard-working and takes feedback exceptionally well. She always strives to do better and be consistent in her performance in every metric set out by the business despite its challenging nature.", "Erin’s Attitude towards her work and colleagues is admirable and I can indeed confirm her ability to make a positive difference within the work place, church and family.Erin has exceptional attendance and a true team player. It was an honour to have worked with her and as her manager it was an absolute pleasure having her in our team.", "Zaynurah Jacobs Team manager", "076 554 6369"]
         },
         {
+            "id":5,
             "name": "Pastor Nicole Davids",
             "relation": "Youth Pastor",
             "img_url": "https://erin-caitlin.github.io/all-images/portfolio/Pastor Nicole.jpg",
