@@ -71,21 +71,21 @@
             "language":"Vue.JS",
             "name": "vuejs",
             "level": "Beginner",
-            "color": "color='#e6b1ac"
+            "color": "#e6b1ac"
         },
         {
             "id":6,
             "language":"Github",
             "name": "github",
             "level": "Beginner",
-            "color": "color='#e6b1ac"
+            "color": "'#e6b1ac"
         },
         {
             "id":7,
             "language":"Figma",
             "name": "figma",
             "level": "Beginner",
-            "color": "color='#e6b1ac"
+            "color": "#e6b1ac"
         }
     ],
     "testimonials": [
