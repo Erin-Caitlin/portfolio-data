@@ -43,28 +43,28 @@
             "language":"HTML",
             "name": "html5",
             "level": "Beginner",
-            "color": "color='#e6b1ac"
+            "color": "#e6b1ac"
         },
         {
             "id":2,
             "language":"CSS",
             "name": "css3",
             "level": "Beginner",
-            "color": "color='#e6b1ac"
+            "color": "#e6b1ac"
         },
         {
             "id":3,
             "language":"Bootstrap",
             "name": "bootstrap",
             "level": "Beginner",
-            "color": "color='#e6b1ac"
+            "color": "#e6b1ac"
         },
         {
             "id": 4,
             "language":"JavaScript",
             "name": "javascript",
             "level": "Beginner",
-            "color": "color='#e6b1ac"
+            "color": "#e6b1ac"
         },
         {
             "id":5,
