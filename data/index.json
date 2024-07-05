@@ -42,43 +42,50 @@
             "id":1,
             "language":"HTML",
             "name": "html5",
-            "level": "Beginner"
+            "level": "Beginner",
+            "color": "color='#e6b1ac"
         },
         {
             "id":2,
             "language":"CSS",
             "name": "css3",
-            "level": "Beginner"
+            "level": "Beginner",
+            "color": "color='#e6b1ac"
         },
         {
             "id":3,
             "language":"Bootstrap",
             "name": "bootstrap",
-            "level": "Beginner"
+            "level": "Beginner",
+            "color": "color='#e6b1ac"
         },
         {
             "id": 4,
             "language":"JavaScript",
             "name": "javascript",
-            "level": "Beginner"
+            "level": "Beginner",
+            "color": "color='#e6b1ac"
         },
         {
             "id":5,
             "language":"Vue.JS",
             "name": "vuejs",
-            "level": "Beginner"
+            "level": "Beginner",
+            "color": "color='#e6b1ac"
         },
         {
             "id":6,
             "language":"Github",
             "name": "github",
-            "level": "Beginner"
+            "level": "Beginner",
+            "color": "color='#e6b1ac"
         },
         {
             "id":7,
             "language":"Figma",
             "name": "figma",
-            "level": "Beginner"
+            "level": "Beginner",
+            "color": "color='#e6b1ac"
         }
     ],
     "testimonials": [
