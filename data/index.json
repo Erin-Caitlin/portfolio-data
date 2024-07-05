@@ -136,38 +136,38 @@
         },
         {
             "project": "Calculator",
-            "Github": "https://github.com/Erin-Caitlin/Calculator.git",
-            "Vercel": "https://calculator-steel-sigma.vercel.app/",
+            "Github": "https://github.com/Erin-Caitlin/JScalculator.git",
+            "Vercel": "https://j-scalculator-beta.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Calculator.png"
         },
         {
             "project": "Bootstrap Portfolio",
             "Github": "https://github.com/Erin-Caitlin/ErinsPortfolio.git",
-            "Vercel": "https://keyboard-psi-three.vercel.app/",
-            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Luminous-Resin.png"
+            "Vercel": "https://erins-portfolio.vercel.app/",
+            "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Bootstrap.png"
         },
         {
             "project": "Luminous Resin",
             "Github": "https://github.com/Erin-Caitlin/LuminousResin.git",
-            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "Vercel": "https://luminousresin.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Luminous-Resin.png"
         },
         {
             "project": "Temperature convertor",
             "Github": "https://github.com/Erin-Caitlin/Temperature-Converter.git",
-            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "Vercel": "https://temperature-converter-umber.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Temp.png"
         },
         {
             "project": "Swegga Fashion",
             "Github": "https://github.com/Erin-Caitlin/SweggaFashion.git",
-            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "Vercel": "https://swegga-fashion.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/Swegga.png"
         },
         {
             "project": "BMI Calculator",
             "Github": "https://github.com/Erin-Caitlin/BMI-Calculator.git",
-            "Vercel": "https://keyboard-psi-three.vercel.app/",
+            "Vercel": "https://bmi-calculator-sage-ten.vercel.app/",
             "imgUrl": "https://erin-caitlin.github.io/portfolio-images/VuePortfolio/BMI.png"
         }
     ]
